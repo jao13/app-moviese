@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "MovieSe",
+    "slug": "desafioDM",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon-app.png",
+        "backgroundColor": "#F5F5FF"
+      },
+      "package": "com.app.desafiodm",
+      "versionCode": 1,
+      "softwareKeyboardLayoutMode": "pan"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
