@@ -29,9 +29,7 @@
 
 <br>
 
-## ℹ️ Como usar o app
-
-#
+## ℹ️ Como usar o aplicativo
 
 ### Pré-requisitos
 
