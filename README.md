@@ -2,11 +2,7 @@
 
 <p align="left">Aplicação desenvolvida em React Native.</p>
 
-<br>
-
 ## 👨‍💻 Tecnologias
-
-#
 
 #### Este projeto foi desenvolvido com as seguintes tecnologias e bibliotecas:
 
