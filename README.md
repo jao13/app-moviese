@@ -30,7 +30,7 @@
 ### Pré-requisitos
 
 Para clonar e rodar a aplicação, é necessário ter instalado em sua máquina as ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e [Yarn](https://yarnpkg.com/) (opcional).
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e [Yarn](https://yarnpkg.com/).
 Além disso, é bom que se tenha um bom editor de código, como o [VSCode](https://code.visualstudio.com/)
 
 ### 🎲 Rodando a aplicação
@@ -46,5 +46,5 @@ $ cd app-moviese
 $ npm install ou yarn install
 
 # Execute a aplicação
-$ npm run android ou yarn android
+$ yarn start
 ```
