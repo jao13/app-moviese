@@ -1,4 +1,4 @@
-# MovieSe App - Desafio Desenvolvedor Mobile FullStack Jr.
+# MovieSe App - Desafio.
 
 <p align="left">Aplicação desenvolvida em React Native.</p>
 
