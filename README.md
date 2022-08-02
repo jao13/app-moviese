@@ -37,7 +37,7 @@ Além disso, é bom que se tenha um bom editor de código, como o [VSCode](https
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/joaomarques13/app-moviese>
+$ git clone <https://github.com/joaovtmarques/rn-moviese>
 
 # Acesse a pasta do projeto no terminal
 $ cd app-moviese
